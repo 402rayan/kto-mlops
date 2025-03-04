@@ -2,7 +2,7 @@ name: Cats and dogs CI/CD
 on:
   push:
     branches:
-      - step**
+      - rayan/step04
 
 jobs:
   train:
